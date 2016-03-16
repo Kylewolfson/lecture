@@ -1,0 +1,27 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+h2.intro {
+  font-weight: bold;
+  color: pink;
+}
+
+img.intro {
+  border: dotted;
+}
+
+p.outro {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  width: 60%;
+}
+
+.important {
+  color: red;
+}
