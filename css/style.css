@@ -1,14 +1,14 @@
-p.intro {
+.intro {
   width: 50%;
   font-style: italic;
 }
 
-h2.intro {
+h2 {
   font-weight: bold;
   color: pink;
 }
 
-img.intro {
+img{
   border: dotted;
 }
 
